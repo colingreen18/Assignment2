@@ -1,1 +1,1 @@
-This is the read me file for Assignment 2
+This program will greet you and display todays date.
